@@ -2,7 +2,7 @@
 ##### Hi, I'm Hussien:
 
 - 🎓passionate software engineering student
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
+- :test_tube: passionate competitive programmer, navigating the intricate pathways of code to turn problems into solutions.
 - 🪐eagerly looking forward to mastering new programming languages
 - :speech_balloon: Ask me about accessibility, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
@@ -37,5 +37,3 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
-
-⭐️ From [AdamAlston](https://github.com/adamalston)
